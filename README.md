@@ -1,4 +1,4 @@
-Verilog Practice Questions:
+Verilog Practice Questions (From IC-Design Training):
 1. Design and simulate combinational circuits (AND, NAND, OR, XOR, etc)
 2. Design and simulate a half adder and a full adder
 3. Design and simulate Multiplexers.
